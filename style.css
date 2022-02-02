@@ -107,7 +107,7 @@ article img{
     
 }
 
-/*---------Partie droite---------*/
+/*---------ASIDE---------*/
 aside{
     background-color: #1791FF;
     color: white;
@@ -121,6 +121,13 @@ aside img{
     width:70%;
     margin: auto;
     border: 2px solid white
+}
+
+aside h2{
+    margin-bottom: 0;
+}
+aside span{
+    font-style: italic;
 }
 
 
