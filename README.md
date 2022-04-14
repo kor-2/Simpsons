@@ -1,1 +1,4 @@
-Premier exercice html css a ELAN
+ exercice ELAN 
+  -HTML 
+  -CSS 
+  -responsive
