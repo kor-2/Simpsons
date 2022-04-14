@@ -1,4 +1,4 @@
- exercice ELAN 
+ Premier exercice ELAN 
   -HTML 
   -CSS 
   -responsive
